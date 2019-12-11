@@ -1,0 +1,32 @@
+.main {
+    width: 1000px;
+    margin: auto;
+}
+
+.topnav {
+    display: inline-block;
+}
+
+li {
+    text-align: center;
+}
+
+.petinfo {
+    display: inline-block;
+}
+
+.sidebar {
+    width: 30%;
+}
+
+.profile {
+    text-align: center;
+}
+
+.bioimage {
+    float: left;
+}
+
+.galleryimage {
+    display: inline-block ;
+}

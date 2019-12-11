@@ -1,0 +1,84 @@
+html {    
+    background-color: lightgray; 
+}
+
+.navigation {
+    border: thin black;
+}
+.topnav {
+    background-color: lightslategray;
+    height: 40px;
+    margin-bottom: 5px;
+    border: thin black;
+}
+
+.nav {
+    display: inline-block;
+    background-color: darkslategrey;
+    position: relative;
+    font-size: 12px;
+    color: floralwhite;
+    padding: 13px;
+    height: auto;
+    border: black;
+}
+
+.sidebar {
+    width: 29%;
+    height: 100%;
+    float: left;
+    margin-right: 5px;
+}
+
+.header {
+    padding-left: 15%;
+}
+
+.stats {
+    text-align: left;
+    position: relative;
+}
+
+.main {
+    width: 70%;
+    height: 100%;
+    float: left;
+    padding: 1px;
+    margin-left: 5px;
+}
+
+.info {
+    display: inline-block;
+    position: relative;
+}
+
+.mainpic {
+    display: inline-block;
+    max-width: 300px;
+    max-height: 300px;
+    float: left;
+    margin: 10px;
+}
+
+.text {
+    text-align: left;
+ }
+
+.img {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.gallery {
+    text-align: center;
+    padding: 5%;
+}
+
+.photos {
+    float: none;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 1%;
+}
+ 
